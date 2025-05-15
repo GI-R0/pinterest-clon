@@ -62,3 +62,5 @@ document.getElementById("logo").addEventListener("click", (e) => {
 
 // Búsqueda inicial
 buscar("paisajes");
+
+
